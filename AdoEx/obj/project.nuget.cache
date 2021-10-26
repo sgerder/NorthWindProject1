@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/Zpfaplzw9TWXhxNfbHQorzf9SZzOX1DA3rYSkSUElVFGtsz7cKIgi13zqRiWK/7+d6fPfCZ2TvyI0Xm4D0Nkg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bruger\\Desktop\\UNI\\Rider projects\\RAWDATA_2021_Livecode4-master\\AdoEx\\AdoEx.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bruger\\.nuget\\packages\\npgsql\\5.0.10\\npgsql.5.0.10.nupkg.sha512",
+    "C:\\Users\\Bruger\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
