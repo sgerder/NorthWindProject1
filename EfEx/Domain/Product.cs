@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace EfEx.Domain
 {
+    //[Table("products")]
     public class Product
     {
         public int Id { get; set; }
