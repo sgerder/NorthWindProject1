@@ -15,6 +15,13 @@ namespace EfEx
             {
                 Console.WriteLine(category);
             }
+            
+            foreach(var category in dataService.GetCategory(1))
+            {
+                Console.WriteLine(category.Name);
+            }
+            
+            
         }
 
         static void FirstTake()

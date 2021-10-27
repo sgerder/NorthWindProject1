@@ -19,7 +19,6 @@ namespace TestProject1
             Assert.Null(category.Description);
         }
 
-        /*
         [Fact]
         public void GetAllCategories_NoArgument_ReturnsAllCategories()
         {
@@ -34,7 +33,7 @@ namespace TestProject1
         {
             var service = new DataService();
             var category = service.GetCategory(1);
-            Assert.Equal("Beverages", category.Name);
+            Assert.Equal("Beverages", category.First().Name);
         }
 
         [Fact]
@@ -47,8 +46,12 @@ namespace TestProject1
             Assert.Equal("CreateCategory_ValidData_CreteCategoryAndRetunsNewObject", category.Description);
 
             // cleanup
-            service.DeleteCategory(category.Id);
+            /*service.DeleteCategory(category.Id);*/
         }
+        /*
+
+
+
 
         [Fact]
         public void DeleteCategory_ValidId_RemoveTheCategory()
