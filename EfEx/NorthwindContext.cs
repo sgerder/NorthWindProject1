@@ -3,6 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using System;
 // MAKING A COMMENT TO CHECK
 // CHECK PUSH
+//Check comm
 namespace EfEx
 {
     public class NorthwindContext : DbContext
@@ -44,8 +45,8 @@ namespace EfEx
             modelBuilder.Entity<Order>().Property(x => x.Date).HasColumnName("orderdate");
             modelBuilder.Entity<Order>().Property(x => x.ShipName).HasColumnName("shipname");
             modelBuilder.Entity<Order>().Property(x => x.ShipCity).HasColumnName("shipcity");
-            
-            modelBuilder.Entity<OrderDetails>().ToTable("orderdetails");
+
+            modelBuilder.Entity<OrderDetails>().ToTable("orderdetails").HasNoKey();
             modelBuilder.Entity<OrderDetails>().Property(x => x.OrderId).HasColumnName("orderid");
             modelBuilder.Entity<OrderDetails>().Property(x => x.ProductId).HasColumnName("productid");
             modelBuilder.Entity<OrderDetails>().Property(x => x.UnitPrice).HasColumnName("unitprice");

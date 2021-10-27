@@ -10,6 +10,6 @@ namespace EfEx.Domain
         public DateTime Date { get; set; }
         public string ShipName { get; set; }
         public string ShipCity { get; set; }
-        public List<OrderDetails> OrderDetails { get; set; }
+        
     }
 }

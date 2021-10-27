@@ -30,3 +30,34 @@ C:\Users\Bruger\Desktop\UNI\Rider projects\RAWDATA_2021_Livecode4-master\EfEx\ob
 C:\Users\Bruger\Desktop\UNI\Rider projects\RAWDATA_2021_Livecode4-master\EfEx\obj\Debug\net5.0\ref\EfEx.dll
 C:\Users\Bruger\Desktop\UNI\Rider projects\RAWDATA_2021_Livecode4-master\EfEx\obj\Debug\net5.0\EfEx.pdb
 C:\Users\Bruger\Desktop\UNI\Rider projects\RAWDATA_2021_Livecode4-master\EfEx\obj\Debug\net5.0\EfEx.genruntimeconfig.cache
+C:\Users\jonas\RiderProjects\NorthWindProject1\EfEx\bin\Debug\net5.0\EfEx.exe
+C:\Users\jonas\RiderProjects\NorthWindProject1\EfEx\bin\Debug\net5.0\EfEx.deps.json
+C:\Users\jonas\RiderProjects\NorthWindProject1\EfEx\bin\Debug\net5.0\EfEx.runtimeconfig.json
+C:\Users\jonas\RiderProjects\NorthWindProject1\EfEx\bin\Debug\net5.0\EfEx.runtimeconfig.dev.json
+C:\Users\jonas\RiderProjects\NorthWindProject1\EfEx\bin\Debug\net5.0\EfEx.dll
+C:\Users\jonas\RiderProjects\NorthWindProject1\EfEx\bin\Debug\net5.0\ref\EfEx.dll
+C:\Users\jonas\RiderProjects\NorthWindProject1\EfEx\bin\Debug\net5.0\EfEx.pdb
+C:\Users\jonas\RiderProjects\NorthWindProject1\EfEx\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\jonas\RiderProjects\NorthWindProject1\EfEx\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jonas\RiderProjects\NorthWindProject1\EfEx\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jonas\RiderProjects\NorthWindProject1\EfEx\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\jonas\RiderProjects\NorthWindProject1\EfEx\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\jonas\RiderProjects\NorthWindProject1\EfEx\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\jonas\RiderProjects\NorthWindProject1\EfEx\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jonas\RiderProjects\NorthWindProject1\EfEx\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jonas\RiderProjects\NorthWindProject1\EfEx\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\jonas\RiderProjects\NorthWindProject1\EfEx\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jonas\RiderProjects\NorthWindProject1\EfEx\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\jonas\RiderProjects\NorthWindProject1\EfEx\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\jonas\RiderProjects\NorthWindProject1\EfEx\bin\Debug\net5.0\Npgsql.dll
+C:\Users\jonas\RiderProjects\NorthWindProject1\EfEx\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\jonas\RiderProjects\NorthWindProject1\EfEx\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jonas\RiderProjects\NorthWindProject1\EfEx\obj\Debug\net5.0\EfEx.csproj.AssemblyReference.cache
+C:\Users\jonas\RiderProjects\NorthWindProject1\EfEx\obj\Debug\net5.0\EfEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonas\RiderProjects\NorthWindProject1\EfEx\obj\Debug\net5.0\EfEx.AssemblyInfoInputs.cache
+C:\Users\jonas\RiderProjects\NorthWindProject1\EfEx\obj\Debug\net5.0\EfEx.AssemblyInfo.cs
+C:\Users\jonas\RiderProjects\NorthWindProject1\EfEx\obj\Debug\net5.0\EfEx.csproj.CoreCompileInputs.cache
+C:\Users\jonas\RiderProjects\NorthWindProject1\EfEx\obj\Debug\net5.0\EfEx.dll
+C:\Users\jonas\RiderProjects\NorthWindProject1\EfEx\obj\Debug\net5.0\ref\EfEx.dll
+C:\Users\jonas\RiderProjects\NorthWindProject1\EfEx\obj\Debug\net5.0\EfEx.pdb
+C:\Users\jonas\RiderProjects\NorthWindProject1\EfEx\obj\Debug\net5.0\EfEx.genruntimeconfig.cache
