@@ -21,7 +21,8 @@ namespace EfEx
 
             optionsBuilder.LogTo(Console.WriteLine, Microsoft.Extensions.Logging.LogLevel.Information);
             optionsBuilder.EnableSensitiveDataLogging();
-            optionsBuilder.UseNpgsql("host=localhost;db=CDatabase;uid=postgres;pwd=new_password");
+
+            optionsBuilder.UseNpgsql("host=localhost;db=northwind_postgres;uid=postgres;pwd=Gie2761!");
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

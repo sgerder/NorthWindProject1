@@ -9,13 +9,14 @@ using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using Xunit;
 
+
 namespace TestProject1
 {
     
     public class WebServiceTests
     {
-        private const string CategoriesApi = "http://localhost:5001/api/categories";
-        private const string ProductsApi = "http://localhost:5001/api/products";
+        private const string CategoriesApi = "http://localhost:5000/api/categories";
+        private const string ProductsApi = "http://localhost:5000/api/products";
 
         /* /api/categories */
 
@@ -23,7 +24,6 @@ namespace TestProject1
         public void ApiCategories_GetWithNoArguments_OkAndAllCategories()
         {
             var (data, statusCode) = GetArray(CategoriesApi);
-
             Assert.Equal(HttpStatusCode.OK, statusCode);
             Assert.Equal(8, data.Count);
             Assert.Equal("Beverages", data.First()["name"]);
@@ -188,7 +188,7 @@ namespace TestProject1
         public void ApiProducts_NameNotContained_EmptyListOfProductAndNotFound()
         {
             var (products, statusCode) = GetArray($"{ProductsApi}/name/RAWDATA");
-
+            
             Assert.Equal(HttpStatusCode.NotFound, statusCode);
             Assert.Equal(0, products.Count);
         }
@@ -197,11 +197,12 @@ namespace TestProject1
 
         // Helpers
 
-        (JArray, HttpStatusCode) GetArray(string url)
+         (JArray, HttpStatusCode) GetArray(string url)
         {
             var client = new HttpClient();
             var response = client.GetAsync(url).Result;
             var data = response.Content.ReadAsStringAsync().Result;
+            Console.WriteLine(data);
             return ((JArray)JsonConvert.DeserializeObject(data), response.StatusCode);
         }
 

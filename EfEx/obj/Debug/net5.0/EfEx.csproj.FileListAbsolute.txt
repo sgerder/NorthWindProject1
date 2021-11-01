@@ -1,98 +1,129 @@
 <<<<<<< Updated upstream
-C:\Users\Bruger\Desktop\UNI\Rider projects\RAWDATA_2021_Livecode4-master\EfEx\bin\Debug\net5.0\EfEx.exe
-C:\Users\Bruger\Desktop\UNI\Rider projects\RAWDATA_2021_Livecode4-master\EfEx\bin\Debug\net5.0\EfEx.deps.json
-C:\Users\Bruger\Desktop\UNI\Rider projects\RAWDATA_2021_Livecode4-master\EfEx\bin\Debug\net5.0\EfEx.runtimeconfig.json
-C:\Users\Bruger\Desktop\UNI\Rider projects\RAWDATA_2021_Livecode4-master\EfEx\bin\Debug\net5.0\EfEx.runtimeconfig.dev.json
-C:\Users\Bruger\Desktop\UNI\Rider projects\RAWDATA_2021_Livecode4-master\EfEx\bin\Debug\net5.0\EfEx.dll
-C:\Users\Bruger\Desktop\UNI\Rider projects\RAWDATA_2021_Livecode4-master\EfEx\bin\Debug\net5.0\ref\EfEx.dll
-C:\Users\Bruger\Desktop\UNI\Rider projects\RAWDATA_2021_Livecode4-master\EfEx\bin\Debug\net5.0\EfEx.pdb
-C:\Users\Bruger\Desktop\UNI\Rider projects\RAWDATA_2021_Livecode4-master\EfEx\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\Bruger\Desktop\UNI\Rider projects\RAWDATA_2021_Livecode4-master\EfEx\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\Bruger\Desktop\UNI\Rider projects\RAWDATA_2021_Livecode4-master\EfEx\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\Bruger\Desktop\UNI\Rider projects\RAWDATA_2021_Livecode4-master\EfEx\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
-C:\Users\Bruger\Desktop\UNI\Rider projects\RAWDATA_2021_Livecode4-master\EfEx\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\Bruger\Desktop\UNI\Rider projects\RAWDATA_2021_Livecode4-master\EfEx\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\Bruger\Desktop\UNI\Rider projects\RAWDATA_2021_Livecode4-master\EfEx\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\Bruger\Desktop\UNI\Rider projects\RAWDATA_2021_Livecode4-master\EfEx\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\Bruger\Desktop\UNI\Rider projects\RAWDATA_2021_Livecode4-master\EfEx\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
-C:\Users\Bruger\Desktop\UNI\Rider projects\RAWDATA_2021_Livecode4-master\EfEx\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\Bruger\Desktop\UNI\Rider projects\RAWDATA_2021_Livecode4-master\EfEx\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
-C:\Users\Bruger\Desktop\UNI\Rider projects\RAWDATA_2021_Livecode4-master\EfEx\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
-C:\Users\Bruger\Desktop\UNI\Rider projects\RAWDATA_2021_Livecode4-master\EfEx\bin\Debug\net5.0\Npgsql.dll
-C:\Users\Bruger\Desktop\UNI\Rider projects\RAWDATA_2021_Livecode4-master\EfEx\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
-C:\Users\Bruger\Desktop\UNI\Rider projects\RAWDATA_2021_Livecode4-master\EfEx\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
-C:\Users\Bruger\Desktop\UNI\Rider projects\RAWDATA_2021_Livecode4-master\EfEx\obj\Debug\net5.0\EfEx.csproj.AssemblyReference.cache
-C:\Users\Bruger\Desktop\UNI\Rider projects\RAWDATA_2021_Livecode4-master\EfEx\obj\Debug\net5.0\EfEx.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Bruger\Desktop\UNI\Rider projects\RAWDATA_2021_Livecode4-master\EfEx\obj\Debug\net5.0\EfEx.AssemblyInfoInputs.cache
-C:\Users\Bruger\Desktop\UNI\Rider projects\RAWDATA_2021_Livecode4-master\EfEx\obj\Debug\net5.0\EfEx.AssemblyInfo.cs
-C:\Users\Bruger\Desktop\UNI\Rider projects\RAWDATA_2021_Livecode4-master\EfEx\obj\Debug\net5.0\EfEx.csproj.CoreCompileInputs.cache
-C:\Users\Bruger\Desktop\UNI\Rider projects\RAWDATA_2021_Livecode4-master\EfEx\obj\Debug\net5.0\EfEx.csproj.CopyComplete
-C:\Users\Bruger\Desktop\UNI\Rider projects\RAWDATA_2021_Livecode4-master\EfEx\obj\Debug\net5.0\EfEx.dll
-C:\Users\Bruger\Desktop\UNI\Rider projects\RAWDATA_2021_Livecode4-master\EfEx\obj\Debug\net5.0\ref\EfEx.dll
-C:\Users\Bruger\Desktop\UNI\Rider projects\RAWDATA_2021_Livecode4-master\EfEx\obj\Debug\net5.0\EfEx.pdb
-C:\Users\Bruger\Desktop\UNI\Rider projects\RAWDATA_2021_Livecode4-master\EfEx\obj\Debug\net5.0\EfEx.genruntimeconfig.cache
-C:\Users\jonas\RiderProjects\NorthWindProject1\EfEx\bin\Debug\net5.0\EfEx.exe
-C:\Users\jonas\RiderProjects\NorthWindProject1\EfEx\bin\Debug\net5.0\EfEx.deps.json
-C:\Users\jonas\RiderProjects\NorthWindProject1\EfEx\bin\Debug\net5.0\EfEx.runtimeconfig.json
-C:\Users\jonas\RiderProjects\NorthWindProject1\EfEx\bin\Debug\net5.0\EfEx.runtimeconfig.dev.json
-C:\Users\jonas\RiderProjects\NorthWindProject1\EfEx\bin\Debug\net5.0\EfEx.dll
-C:\Users\jonas\RiderProjects\NorthWindProject1\EfEx\bin\Debug\net5.0\ref\EfEx.dll
-C:\Users\jonas\RiderProjects\NorthWindProject1\EfEx\bin\Debug\net5.0\EfEx.pdb
-C:\Users\jonas\RiderProjects\NorthWindProject1\EfEx\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\jonas\RiderProjects\NorthWindProject1\EfEx\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\jonas\RiderProjects\NorthWindProject1\EfEx\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\jonas\RiderProjects\NorthWindProject1\EfEx\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
-C:\Users\jonas\RiderProjects\NorthWindProject1\EfEx\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\jonas\RiderProjects\NorthWindProject1\EfEx\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\jonas\RiderProjects\NorthWindProject1\EfEx\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\jonas\RiderProjects\NorthWindProject1\EfEx\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\jonas\RiderProjects\NorthWindProject1\EfEx\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
-C:\Users\jonas\RiderProjects\NorthWindProject1\EfEx\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\jonas\RiderProjects\NorthWindProject1\EfEx\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
-C:\Users\jonas\RiderProjects\NorthWindProject1\EfEx\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
-C:\Users\jonas\RiderProjects\NorthWindProject1\EfEx\bin\Debug\net5.0\Npgsql.dll
-C:\Users\jonas\RiderProjects\NorthWindProject1\EfEx\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
-C:\Users\jonas\RiderProjects\NorthWindProject1\EfEx\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
-C:\Users\jonas\RiderProjects\NorthWindProject1\EfEx\obj\Debug\net5.0\EfEx.csproj.AssemblyReference.cache
-C:\Users\jonas\RiderProjects\NorthWindProject1\EfEx\obj\Debug\net5.0\EfEx.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\jonas\RiderProjects\NorthWindProject1\EfEx\obj\Debug\net5.0\EfEx.AssemblyInfoInputs.cache
-C:\Users\jonas\RiderProjects\NorthWindProject1\EfEx\obj\Debug\net5.0\EfEx.AssemblyInfo.cs
-C:\Users\jonas\RiderProjects\NorthWindProject1\EfEx\obj\Debug\net5.0\EfEx.csproj.CoreCompileInputs.cache
-C:\Users\jonas\RiderProjects\NorthWindProject1\EfEx\obj\Debug\net5.0\EfEx.dll
-C:\Users\jonas\RiderProjects\NorthWindProject1\EfEx\obj\Debug\net5.0\ref\EfEx.dll
-C:\Users\jonas\RiderProjects\NorthWindProject1\EfEx\obj\Debug\net5.0\EfEx.pdb
-C:\Users\jonas\RiderProjects\NorthWindProject1\EfEx\obj\Debug\net5.0\EfEx.genruntimeconfig.cache
+C:/Users/Bruger/Desktop/UNI/Rider projects/RAWDATA_2021_Livecode4-master/EfEx/bin/Debug/net5.0/EfEx.exe
+C:/Users/Bruger/Desktop/UNI/Rider projects/RAWDATA_2021_Livecode4-master/EfEx/bin/Debug/net5.0/EfEx.deps.json
+C:/Users/Bruger/Desktop/UNI/Rider projects/RAWDATA_2021_Livecode4-master/EfEx/bin/Debug/net5.0/EfEx.runtimeconfig.json
+C:/Users/Bruger/Desktop/UNI/Rider projects/RAWDATA_2021_Livecode4-master/EfEx/bin/Debug/net5.0/EfEx.runtimeconfig.dev.json
+C:/Users/Bruger/Desktop/UNI/Rider projects/RAWDATA_2021_Livecode4-master/EfEx/bin/Debug/net5.0/EfEx.dll
+C:/Users/Bruger/Desktop/UNI/Rider projects/RAWDATA_2021_Livecode4-master/EfEx/bin/Debug/net5.0/ref/EfEx.dll
+C:/Users/Bruger/Desktop/UNI/Rider projects/RAWDATA_2021_Livecode4-master/EfEx/bin/Debug/net5.0/EfEx.pdb
+C:/Users/Bruger/Desktop/UNI/Rider projects/RAWDATA_2021_Livecode4-master/EfEx/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Bruger/Desktop/UNI/Rider projects/RAWDATA_2021_Livecode4-master/EfEx/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Bruger/Desktop/UNI/Rider projects/RAWDATA_2021_Livecode4-master/EfEx/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Bruger/Desktop/UNI/Rider projects/RAWDATA_2021_Livecode4-master/EfEx/bin/Debug/net5.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/Bruger/Desktop/UNI/Rider projects/RAWDATA_2021_Livecode4-master/EfEx/bin/Debug/net5.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/Bruger/Desktop/UNI/Rider projects/RAWDATA_2021_Livecode4-master/EfEx/bin/Debug/net5.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/Bruger/Desktop/UNI/Rider projects/RAWDATA_2021_Livecode4-master/EfEx/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/Bruger/Desktop/UNI/Rider projects/RAWDATA_2021_Livecode4-master/EfEx/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/Bruger/Desktop/UNI/Rider projects/RAWDATA_2021_Livecode4-master/EfEx/bin/Debug/net5.0/Microsoft.Extensions.Logging.dll
+C:/Users/Bruger/Desktop/UNI/Rider projects/RAWDATA_2021_Livecode4-master/EfEx/bin/Debug/net5.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/Bruger/Desktop/UNI/Rider projects/RAWDATA_2021_Livecode4-master/EfEx/bin/Debug/net5.0/Microsoft.Extensions.Options.dll
+C:/Users/Bruger/Desktop/UNI/Rider projects/RAWDATA_2021_Livecode4-master/EfEx/bin/Debug/net5.0/Microsoft.Extensions.Primitives.dll
+C:/Users/Bruger/Desktop/UNI/Rider projects/RAWDATA_2021_Livecode4-master/EfEx/bin/Debug/net5.0/Npgsql.dll
+C:/Users/Bruger/Desktop/UNI/Rider projects/RAWDATA_2021_Livecode4-master/EfEx/bin/Debug/net5.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:/Users/Bruger/Desktop/UNI/Rider projects/RAWDATA_2021_Livecode4-master/EfEx/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Bruger/Desktop/UNI/Rider projects/RAWDATA_2021_Livecode4-master/EfEx/obj/Debug/net5.0/EfEx.csproj.AssemblyReference.cache
+C:/Users/Bruger/Desktop/UNI/Rider projects/RAWDATA_2021_Livecode4-master/EfEx/obj/Debug/net5.0/EfEx.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Bruger/Desktop/UNI/Rider projects/RAWDATA_2021_Livecode4-master/EfEx/obj/Debug/net5.0/EfEx.AssemblyInfoInputs.cache
+C:/Users/Bruger/Desktop/UNI/Rider projects/RAWDATA_2021_Livecode4-master/EfEx/obj/Debug/net5.0/EfEx.AssemblyInfo.cs
+C:/Users/Bruger/Desktop/UNI/Rider projects/RAWDATA_2021_Livecode4-master/EfEx/obj/Debug/net5.0/EfEx.csproj.CoreCompileInputs.cache
+C:/Users/Bruger/Desktop/UNI/Rider projects/RAWDATA_2021_Livecode4-master/EfEx/obj/Debug/net5.0/EfEx.csproj.CopyComplete
+C:/Users/Bruger/Desktop/UNI/Rider projects/RAWDATA_2021_Livecode4-master/EfEx/obj/Debug/net5.0/EfEx.dll
+C:/Users/Bruger/Desktop/UNI/Rider projects/RAWDATA_2021_Livecode4-master/EfEx/obj/Debug/net5.0/ref/EfEx.dll
+C:/Users/Bruger/Desktop/UNI/Rider projects/RAWDATA_2021_Livecode4-master/EfEx/obj/Debug/net5.0/EfEx.pdb
+C:/Users/Bruger/Desktop/UNI/Rider projects/RAWDATA_2021_Livecode4-master/EfEx/obj/Debug/net5.0/EfEx.genruntimeconfig.cache
+C:/Users/jonas/RiderProjects/NorthWindProject1/EfEx/bin/Debug/net5.0/EfEx.exe
+C:/Users/jonas/RiderProjects/NorthWindProject1/EfEx/bin/Debug/net5.0/EfEx.deps.json
+C:/Users/jonas/RiderProjects/NorthWindProject1/EfEx/bin/Debug/net5.0/EfEx.runtimeconfig.json
+C:/Users/jonas/RiderProjects/NorthWindProject1/EfEx/bin/Debug/net5.0/EfEx.runtimeconfig.dev.json
+C:/Users/jonas/RiderProjects/NorthWindProject1/EfEx/bin/Debug/net5.0/EfEx.dll
+C:/Users/jonas/RiderProjects/NorthWindProject1/EfEx/bin/Debug/net5.0/ref/EfEx.dll
+C:/Users/jonas/RiderProjects/NorthWindProject1/EfEx/bin/Debug/net5.0/EfEx.pdb
+C:/Users/jonas/RiderProjects/NorthWindProject1/EfEx/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/jonas/RiderProjects/NorthWindProject1/EfEx/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/jonas/RiderProjects/NorthWindProject1/EfEx/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/jonas/RiderProjects/NorthWindProject1/EfEx/bin/Debug/net5.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/jonas/RiderProjects/NorthWindProject1/EfEx/bin/Debug/net5.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/jonas/RiderProjects/NorthWindProject1/EfEx/bin/Debug/net5.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/jonas/RiderProjects/NorthWindProject1/EfEx/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/jonas/RiderProjects/NorthWindProject1/EfEx/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/jonas/RiderProjects/NorthWindProject1/EfEx/bin/Debug/net5.0/Microsoft.Extensions.Logging.dll
+C:/Users/jonas/RiderProjects/NorthWindProject1/EfEx/bin/Debug/net5.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/jonas/RiderProjects/NorthWindProject1/EfEx/bin/Debug/net5.0/Microsoft.Extensions.Options.dll
+C:/Users/jonas/RiderProjects/NorthWindProject1/EfEx/bin/Debug/net5.0/Microsoft.Extensions.Primitives.dll
+C:/Users/jonas/RiderProjects/NorthWindProject1/EfEx/bin/Debug/net5.0/Npgsql.dll
+C:/Users/jonas/RiderProjects/NorthWindProject1/EfEx/bin/Debug/net5.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:/Users/jonas/RiderProjects/NorthWindProject1/EfEx/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/jonas/RiderProjects/NorthWindProject1/EfEx/obj/Debug/net5.0/EfEx.csproj.AssemblyReference.cache
+C:/Users/jonas/RiderProjects/NorthWindProject1/EfEx/obj/Debug/net5.0/EfEx.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/jonas/RiderProjects/NorthWindProject1/EfEx/obj/Debug/net5.0/EfEx.AssemblyInfoInputs.cache
+C:/Users/jonas/RiderProjects/NorthWindProject1/EfEx/obj/Debug/net5.0/EfEx.AssemblyInfo.cs
+C:/Users/jonas/RiderProjects/NorthWindProject1/EfEx/obj/Debug/net5.0/EfEx.csproj.CoreCompileInputs.cache
+C:/Users/jonas/RiderProjects/NorthWindProject1/EfEx/obj/Debug/net5.0/EfEx.dll
+C:/Users/jonas/RiderProjects/NorthWindProject1/EfEx/obj/Debug/net5.0/ref/EfEx.dll
+C:/Users/jonas/RiderProjects/NorthWindProject1/EfEx/obj/Debug/net5.0/EfEx.pdb
+C:/Users/jonas/RiderProjects/NorthWindProject1/EfEx/obj/Debug/net5.0/EfEx.genruntimeconfig.cache
 =======
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\EfEx\bin\Debug\net5.0\EfEx.exe
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\EfEx\bin\Debug\net5.0\EfEx.deps.json
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\EfEx\bin\Debug\net5.0\EfEx.runtimeconfig.json
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\EfEx\bin\Debug\net5.0\EfEx.runtimeconfig.dev.json
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\EfEx\bin\Debug\net5.0\EfEx.dll
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\EfEx\bin\Debug\net5.0\ref\EfEx.dll
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\EfEx\bin\Debug\net5.0\EfEx.pdb
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\EfEx\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\EfEx\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\EfEx\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\EfEx\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\EfEx\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\EfEx\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\EfEx\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\EfEx\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\EfEx\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\EfEx\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\EfEx\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\EfEx\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\EfEx\bin\Debug\net5.0\Npgsql.dll
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\EfEx\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\EfEx\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\EfEx\obj\Debug\net5.0\EfEx.csproj.AssemblyReference.cache
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\EfEx\obj\Debug\net5.0\EfEx.GeneratedMSBuildEditorConfig.editorconfig
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\EfEx\obj\Debug\net5.0\EfEx.AssemblyInfoInputs.cache
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\EfEx\obj\Debug\net5.0\EfEx.AssemblyInfo.cs
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\EfEx\obj\Debug\net5.0\EfEx.csproj.CoreCompileInputs.cache
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\EfEx\obj\Debug\net5.0\EfEx.csproj.CopyComplete
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\EfEx\obj\Debug\net5.0\EfEx.dll
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\EfEx\obj\Debug\net5.0\ref\EfEx.dll
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\EfEx\obj\Debug\net5.0\EfEx.pdb
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\EfEx\obj\Debug\net5.0\EfEx.genruntimeconfig.cache
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/EfEx/bin/Debug/net5.0/EfEx.exe
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/EfEx/bin/Debug/net5.0/EfEx.deps.json
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/EfEx/bin/Debug/net5.0/EfEx.runtimeconfig.json
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/EfEx/bin/Debug/net5.0/EfEx.runtimeconfig.dev.json
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/EfEx/bin/Debug/net5.0/EfEx.dll
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/EfEx/bin/Debug/net5.0/ref/EfEx.dll
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/EfEx/bin/Debug/net5.0/EfEx.pdb
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/EfEx/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/EfEx/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/EfEx/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/EfEx/bin/Debug/net5.0/Microsoft.Extensions.Caching.Abstractions.dll
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/EfEx/bin/Debug/net5.0/Microsoft.Extensions.Caching.Memory.dll
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/EfEx/bin/Debug/net5.0/Microsoft.Extensions.Configuration.Abstractions.dll
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/EfEx/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/EfEx/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/EfEx/bin/Debug/net5.0/Microsoft.Extensions.Logging.dll
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/EfEx/bin/Debug/net5.0/Microsoft.Extensions.Logging.Abstractions.dll
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/EfEx/bin/Debug/net5.0/Microsoft.Extensions.Options.dll
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/EfEx/bin/Debug/net5.0/Microsoft.Extensions.Primitives.dll
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/EfEx/bin/Debug/net5.0/Npgsql.dll
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/EfEx/bin/Debug/net5.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/EfEx/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/EfEx/obj/Debug/net5.0/EfEx.csproj.AssemblyReference.cache
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/EfEx/obj/Debug/net5.0/EfEx.GeneratedMSBuildEditorConfig.editorconfig
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/EfEx/obj/Debug/net5.0/EfEx.AssemblyInfoInputs.cache
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/EfEx/obj/Debug/net5.0/EfEx.AssemblyInfo.cs
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/EfEx/obj/Debug/net5.0/EfEx.csproj.CoreCompileInputs.cache
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/EfEx/obj/Debug/net5.0/EfEx.csproj.CopyComplete
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/EfEx/obj/Debug/net5.0/EfEx.dll
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/EfEx/obj/Debug/net5.0/ref/EfEx.dll
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/EfEx/obj/Debug/net5.0/EfEx.pdb
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/EfEx/obj/Debug/net5.0/EfEx.genruntimeconfig.cache
 >>>>>>> Stashed changes
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/EfEx/bin/Debug/net5.0/EfEx.deps.json
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/EfEx/bin/Debug/net5.0/EfEx.runtimeconfig.json
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/EfEx/bin/Debug/net5.0/EfEx.runtimeconfig.dev.json
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/EfEx/bin/Debug/net5.0/EfEx.dll
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/EfEx/bin/Debug/net5.0/ref/EfEx.dll
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/EfEx/bin/Debug/net5.0/EfEx.pdb
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/EfEx/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/EfEx/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/EfEx/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/EfEx/bin/Debug/net5.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/EfEx/bin/Debug/net5.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/EfEx/bin/Debug/net5.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/EfEx/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/EfEx/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/EfEx/bin/Debug/net5.0/Microsoft.Extensions.Logging.dll
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/EfEx/bin/Debug/net5.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/EfEx/bin/Debug/net5.0/Microsoft.Extensions.Options.dll
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/EfEx/bin/Debug/net5.0/Microsoft.Extensions.Primitives.dll
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/EfEx/bin/Debug/net5.0/Npgsql.dll
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/EfEx/bin/Debug/net5.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/EfEx/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/EfEx/obj/Debug/net5.0/EfEx.csproj.AssemblyReference.cache
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/EfEx/obj/Debug/net5.0/EfEx.GeneratedMSBuildEditorConfig.editorconfig
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/EfEx/obj/Debug/net5.0/EfEx.AssemblyInfoInputs.cache
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/EfEx/obj/Debug/net5.0/EfEx.AssemblyInfo.cs
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/EfEx/obj/Debug/net5.0/EfEx.csproj.CoreCompileInputs.cache
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/EfEx/obj/Debug/net5.0/EfEx.csproj.CopyComplete
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/EfEx/obj/Debug/net5.0/EfEx.dll
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/EfEx/obj/Debug/net5.0/ref/EfEx.dll
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/EfEx/obj/Debug/net5.0/EfEx.pdb
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/EfEx/obj/Debug/net5.0/EfEx.genruntimeconfig.cache

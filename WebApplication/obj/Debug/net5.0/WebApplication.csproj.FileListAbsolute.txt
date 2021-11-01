@@ -1,37 +1,75 @@
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\WebApplication\bin\Debug\net5.0\EfEx.deps.json
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\WebApplication\bin\Debug\net5.0\EfEx.runtimeconfig.json
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\WebApplication\bin\Debug\net5.0\EfEx.runtimeconfig.dev.json
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\WebApplication\bin\Debug\net5.0\EfEx.exe
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\WebApplication\bin\Debug\net5.0\appsettings.Development.json
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\WebApplication\bin\Debug\net5.0\appsettings.json
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\WebApplication\bin\Debug\net5.0\WebApplication.exe
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\WebApplication\bin\Debug\net5.0\WebApplication.deps.json
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\WebApplication\bin\Debug\net5.0\WebApplication.runtimeconfig.json
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\WebApplication\bin\Debug\net5.0\WebApplication.runtimeconfig.dev.json
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\WebApplication\bin\Debug\net5.0\WebApplication.dll
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\WebApplication\bin\Debug\net5.0\ref\WebApplication.dll
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\WebApplication\bin\Debug\net5.0\WebApplication.pdb
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\WebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\WebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\WebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\WebApplication\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\WebApplication\bin\Debug\net5.0\Npgsql.dll
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\WebApplication\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\WebApplication\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\WebApplication\bin\Debug\net5.0\EfEx.dll
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\WebApplication\bin\Debug\net5.0\EfEx.pdb
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\WebApplication\obj\Debug\net5.0\WebApplication.csproj.AssemblyReference.cache
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\WebApplication\obj\Debug\net5.0\WebApplication.GeneratedMSBuildEditorConfig.editorconfig
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\WebApplication\obj\Debug\net5.0\WebApplication.AssemblyInfoInputs.cache
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\WebApplication\obj\Debug\net5.0\WebApplication.AssemblyInfo.cs
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\WebApplication\obj\Debug\net5.0\WebApplication.csproj.CoreCompileInputs.cache
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\WebApplication\obj\Debug\net5.0\WebApplication.MvcApplicationPartsAssemblyInfo.cache
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\WebApplication\obj\Debug\net5.0\staticwebassets\WebApplication.StaticWebAssets.Manifest.cache
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\WebApplication\obj\Debug\net5.0\staticwebassets\WebApplication.StaticWebAssets.xml
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\WebApplication\obj\Debug\net5.0\scopedcss\bundle\WebApplication.styles.css
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\WebApplication\obj\Debug\net5.0\WebApplication.RazorTargetAssemblyInfo.cache
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\WebApplication\obj\Debug\net5.0\WebApplication.csproj.CopyComplete
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\WebApplication\obj\Debug\net5.0\WebApplication.dll
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\WebApplication\obj\Debug\net5.0\ref\WebApplication.dll
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\WebApplication\obj\Debug\net5.0\WebApplication.pdb
-D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\WebApplication\obj\Debug\net5.0\WebApplication.genruntimeconfig.cache
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/WebApplication/bin/Debug/net5.0/EfEx.deps.json
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/WebApplication/bin/Debug/net5.0/EfEx.runtimeconfig.json
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/WebApplication/bin/Debug/net5.0/EfEx.runtimeconfig.dev.json
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/WebApplication/bin/Debug/net5.0/EfEx.exe
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/WebApplication/bin/Debug/net5.0/appsettings.Development.json
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/WebApplication/bin/Debug/net5.0/appsettings.json
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/WebApplication/bin/Debug/net5.0/WebApplication.exe
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/WebApplication/bin/Debug/net5.0/WebApplication.deps.json
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/WebApplication/bin/Debug/net5.0/WebApplication.runtimeconfig.json
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/WebApplication/bin/Debug/net5.0/WebApplication.runtimeconfig.dev.json
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/WebApplication/bin/Debug/net5.0/WebApplication.dll
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/WebApplication/bin/Debug/net5.0/ref/WebApplication.dll
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/WebApplication/bin/Debug/net5.0/WebApplication.pdb
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/WebApplication/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/WebApplication/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/WebApplication/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/WebApplication/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/WebApplication/bin/Debug/net5.0/Npgsql.dll
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/WebApplication/bin/Debug/net5.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/WebApplication/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/WebApplication/bin/Debug/net5.0/EfEx.dll
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/WebApplication/bin/Debug/net5.0/EfEx.pdb
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/WebApplication/obj/Debug/net5.0/WebApplication.csproj.AssemblyReference.cache
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/WebApplication/obj/Debug/net5.0/WebApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/WebApplication/obj/Debug/net5.0/WebApplication.AssemblyInfoInputs.cache
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/WebApplication/obj/Debug/net5.0/WebApplication.AssemblyInfo.cs
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/WebApplication/obj/Debug/net5.0/WebApplication.csproj.CoreCompileInputs.cache
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/WebApplication/obj/Debug/net5.0/WebApplication.MvcApplicationPartsAssemblyInfo.cache
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/WebApplication/obj/Debug/net5.0/staticwebassets/WebApplication.StaticWebAssets.Manifest.cache
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/WebApplication/obj/Debug/net5.0/staticwebassets/WebApplication.StaticWebAssets.xml
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/WebApplication/obj/Debug/net5.0/scopedcss/bundle/WebApplication.styles.css
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/WebApplication/obj/Debug/net5.0/WebApplication.RazorTargetAssemblyInfo.cache
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/WebApplication/obj/Debug/net5.0/WebApplication.csproj.CopyComplete
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/WebApplication/obj/Debug/net5.0/WebApplication.dll
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/WebApplication/obj/Debug/net5.0/ref/WebApplication.dll
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/WebApplication/obj/Debug/net5.0/WebApplication.pdb
+D:/RUC/Second Semester/Computer Science/C#/git/Asignment4/NorthWindProject1/WebApplication/obj/Debug/net5.0/WebApplication.genruntimeconfig.cache
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/WebApplication/bin/Debug/net5.0/appsettings.Development.json
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/WebApplication/bin/Debug/net5.0/appsettings.json
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/WebApplication/bin/Debug/net5.0/EfEx.deps.json
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/WebApplication/bin/Debug/net5.0/EfEx.runtimeconfig.json
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/WebApplication/bin/Debug/net5.0/EfEx.runtimeconfig.dev.json
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/WebApplication/bin/Debug/net5.0/WebApplication.deps.json
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/WebApplication/bin/Debug/net5.0/WebApplication.runtimeconfig.json
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/WebApplication/bin/Debug/net5.0/WebApplication.runtimeconfig.dev.json
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/WebApplication/bin/Debug/net5.0/WebApplication.dll
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/WebApplication/bin/Debug/net5.0/ref/WebApplication.dll
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/WebApplication/bin/Debug/net5.0/WebApplication.pdb
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/WebApplication/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/WebApplication/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/WebApplication/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/WebApplication/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/WebApplication/bin/Debug/net5.0/Npgsql.dll
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/WebApplication/bin/Debug/net5.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/WebApplication/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/WebApplication/bin/Debug/net5.0/EfEx.dll
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/WebApplication/bin/Debug/net5.0/EfEx.pdb
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/WebApplication/obj/Debug/net5.0/WebApplication.csproj.AssemblyReference.cache
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/WebApplication/obj/Debug/net5.0/WebApplication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/WebApplication/obj/Debug/net5.0/WebApplication.AssemblyInfoInputs.cache
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/WebApplication/obj/Debug/net5.0/WebApplication.AssemblyInfo.cs
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/WebApplication/obj/Debug/net5.0/WebApplication.csproj.CoreCompileInputs.cache
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/WebApplication/obj/Debug/net5.0/WebApplication.MvcApplicationPartsAssemblyInfo.cache
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/WebApplication/obj/Debug/net5.0/staticwebassets/WebApplication.StaticWebAssets.Manifest.cache
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/WebApplication/obj/Debug/net5.0/staticwebassets/WebApplication.StaticWebAssets.xml
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/WebApplication/obj/Debug/net5.0/scopedcss/bundle/WebApplication.styles.css
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/WebApplication/obj/Debug/net5.0/WebApplication.RazorTargetAssemblyInfo.cache
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/WebApplication/obj/Debug/net5.0/WebApplication.csproj.CopyComplete
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/WebApplication/obj/Debug/net5.0/WebApplication.dll
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/WebApplication/obj/Debug/net5.0/ref/WebApplication.dll
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/WebApplication/obj/Debug/net5.0/WebApplication.pdb
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/WebApplication/obj/Debug/net5.0/WebApplication.genruntimeconfig.cache
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/WebApplication/bin/Debug/net5.0/AutoMapper.dll
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/WebApplication/bin/Debug/net5.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/WebApplication/bin/Debug/net5.0/Newtonsoft.Json.dll

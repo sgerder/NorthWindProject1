@@ -19,10 +19,11 @@ namespace EfEx.Domain
                 .Select(x => x).ToList().FirstOrDefault();
         }
 
-        public List<Category> GetCategories()
+        public IList<Category> GetCategories()
         {
             using var ctx = new NorthwindContext();
-            return ctx.Category.ToList();
+            IList<Category> list = ctx.Category.ToList();
+            return list;
         }
 
         public Category CreateCategory(string inName, string inDescription)

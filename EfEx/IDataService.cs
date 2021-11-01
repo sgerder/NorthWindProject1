@@ -5,7 +5,7 @@ namespace EfEx.Domain
     public interface IDataService
     {
         // category methods
-        List<Category> GetCategories();
+        IList<Category> GetCategories();
         Category GetCategory(int inId);
         Category CreateCategory(string inName, string inDescription);
         bool UpdateCategory(int inId, string inName, string inDescription);

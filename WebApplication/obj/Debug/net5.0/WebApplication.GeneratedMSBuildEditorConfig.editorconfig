@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = WebApplication
-build_property.ProjectDir = D:\RUC\Second Semester\Computer Science\C#\git\Asignment4\NorthWindProject1\WebApplication\
+build_property.ProjectDir = /Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/WebApplication/

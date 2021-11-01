@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\RUC\\Second Semester\\Computer Science\\C#\\git\\Asignment4\\NorthWindProject1\\EfEx\\EfEx.csproj": {}
+    "/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/EfEx/EfEx.csproj": {}
   },
   "projects": {
-    "D:\\RUC\\Second Semester\\Computer Science\\C#\\git\\Asignment4\\NorthWindProject1\\EfEx\\EfEx.csproj": {
+    "/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/EfEx/EfEx.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\RUC\\Second Semester\\Computer Science\\C#\\git\\Asignment4\\NorthWindProject1\\EfEx\\EfEx.csproj",
+        "projectUniqueName": "/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/EfEx/EfEx.csproj",
         "projectName": "EfEx",
-        "projectPath": "D:\\RUC\\Second Semester\\Computer Science\\C#\\git\\Asignment4\\NorthWindProject1\\EfEx\\EfEx.csproj",
-        "packagesPath": "C:\\Users\\Andrei\\.nuget\\packages\\",
-        "outputPath": "D:\\RUC\\Second Semester\\Computer Science\\C#\\git\\Asignment4\\NorthWindProject1\\EfEx\\obj\\",
+        "projectPath": "/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/EfEx/EfEx.csproj",
+        "packagesPath": "/Users/steffensiltamiesgiessing/.nuget/packages/",
+        "outputPath": "/Users/steffensiltamiesgiessing/exercise1_crashCourse/NorthWind/NorthWindProject1/EfEx/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Andrei\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/steffensiltamiesgiessing/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -64,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
         }
       }
     }
