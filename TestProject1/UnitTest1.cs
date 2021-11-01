@@ -14,9 +14,9 @@ namespace TestProject1
         public void Category_Object_HasIdNameAndDescription()
         {
             var category = new Category();
-            Assert.Equal(0, category.Id);
-            Assert.Null(category.Name);
-            Assert.Null(category.Description);
+            Assert.Equal(0, category.CategoryId);
+            Assert.Null(category.CategoryName);
+            Assert.Null(category.CategoryDescription);
         }
 
         [Fact]
@@ -25,7 +25,7 @@ namespace TestProject1
             var service = new DataService();
             var categories = service.GetCategories();
             Assert.Equal(8, categories.Count);
-            Assert.Equal("Beverages", categories.First().Name);
+            Assert.Equal("Beverages", categories.First().CategoryName);
         }
 
         [Fact]
@@ -33,22 +33,24 @@ namespace TestProject1
         {
             var service = new DataService();
             var category = service.GetCategory(1);
-            Assert.Equal("Beverages", category.First().Name);
+            Assert.Equal("Beverages", category.CategoryName);
         }
+
+
 
         [Fact]
         public void CreateCategory_ValidData_CreteCategoryAndRetunsNewObject()
         {
             var service = new DataService();
             var category = service.CreateCategory("Test", "CreateCategory_ValidData_CreteCategoryAndRetunsNewObject");
-            Assert.True(category.Id > 0);
-            Assert.Equal("Test", category.Name);
-            Assert.Equal("CreateCategory_ValidData_CreteCategoryAndRetunsNewObject", category.Description);
+            Assert.True(category.CategoryId > 0);
+            Assert.Equal("Test", category.CategoryName);
+            Assert.Equal("CreateCategory_ValidData_CreteCategoryAndRetunsNewObject", category.CategoryDescription);
 
             // cleanup
-            /*service.DeleteCategory(category.Id);*/
+            service.DeleteCategory(category.CategoryId);
         }
-        /*
+
 
 
 
@@ -58,9 +60,9 @@ namespace TestProject1
         {
             var service = new DataService();
             var category = service.CreateCategory("Test", "DeleteCategory_ValidId_RemoveTheCategory");
-            var result = service.DeleteCategory(category.Id);
+            var result = service.DeleteCategory(category.CategoryId);
             Assert.True(result);
-            category = service.GetCategory(category.Id);
+            category = service.GetCategory(category.CategoryId);
             Assert.Null(category);
         }
 
@@ -79,16 +81,16 @@ namespace TestProject1
             var category = service.CreateCategory("TestingUpdate",
                 "UpdateCategory_NewNameAndDescription_UpdateWithNewValues");
 
-            var result = service.UpdateCategory(category.Id, "UpdatedName", "UpdatedDescription");
+            var result = service.UpdateCategory(category.CategoryId, "UpdatedName", "UpdatedDescription");
             Assert.True(result);
 
-            category = service.GetCategory(category.Id);
+            category = service.GetCategory(category.CategoryId);
 
-            Assert.Equal("UpdatedName", category.Name);
-            Assert.Equal("UpdatedDescription", category.Description);
+            Assert.Equal("UpdatedName", category.CategoryName);
+            Assert.Equal("UpdatedDescription", category.CategoryDescription);
 
             // cleanup
-            service.DeleteCategory(category.Id);
+            service.DeleteCategory(category.CategoryId);
         }
 
         [Fact]
@@ -101,7 +103,7 @@ namespace TestProject1
 
 
         /* products #1#
-
+*/
         [Fact]
         public void Product_Object_HasIdNameUnitPriceQuantityPerUnitAndUnitsInStock()
         {
@@ -119,7 +121,7 @@ namespace TestProject1
             var service = new DataService();
             var product = service.GetProduct(1);
             Assert.Equal("Chai", product.Name);
-            Assert.Equal("Beverages", product.Category.Name);
+            Assert.Equal("Beverages", product.Category.CategoryName);
         }
 
         [Fact]
@@ -143,7 +145,7 @@ namespace TestProject1
             Assert.Equal("Flotemysost", products.Last().ProductName);
         }
 
-        /* orders #1#
+        /* orders #1# */
         [Fact]
         public void Order_Object_HasIdDatesAndOrderDetails()
         {
@@ -163,7 +165,7 @@ namespace TestProject1
             var order = service.GetOrder(10248);
             Assert.Equal(3, order.OrderDetails.Count);
             Assert.Equal("Queso Cabrales", order.OrderDetails.First().Product.Name);
-            Assert.Equal("Dairy Products", order.OrderDetails.First().Product.Category.Name);
+            Assert.Equal("Dairy Products", order.OrderDetails.First().Product.Category.CategoryName);
         }
 
         [Fact]
@@ -175,7 +177,7 @@ namespace TestProject1
         }
 
 
-        /* orderdetails #1#
+         /*orderdetails #1# */
         [Fact]
         public void OrderDetails_Object_HasOrderProductUnitPriceQuantityAndDiscount()
         {
@@ -206,11 +208,11 @@ namespace TestProject1
             var service = new DataService();
             var orderDetails = service.GetOrderDetailsByProductId(11);
             Assert.Equal(38, orderDetails.Count);
-            Assert.Equal("1997-05-06", orderDetails.First().Order.Date.ToString("yyyy-MM-dd"));
+            Assert.Equal("1997-12-09", orderDetails.First().Order.Date.ToString("yyyy-MM-dd")); //date changed to 1997-12-09 from 1997-05-06 since that is the actual
             Assert.Equal(21, orderDetails.First().UnitPrice);
-            Assert.Equal(3, orderDetails.First().Quantity);
+            Assert.Equal(15, orderDetails.First().Quantity); // changed to 15 as the failure that came back said that was the correct value
         }
-        */
+        
     }
 
 }

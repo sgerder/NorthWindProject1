@@ -1,64 +1,42 @@
 ﻿using EfEx.Domain;
 using Microsoft.EntityFrameworkCore;
 using System;
+using EfEx.Domain;
+using System;
+using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
+using System.Runtime.InteropServices.ComTypes;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace EfEx
 {
     internal class EfProgram
     {
         static void Main(string[] args)
+        
         {
-            var dataService = new DataService();
+            var service = new DataService();
 
-            foreach(var category in dataService.GetCategories())
+            foreach (var categories in service.GetCategories())
             {
-                Console.WriteLine(category);
+                Console.WriteLine(categories);
             }
             
-            foreach(var category in dataService.GetCategory(1))
-            {
-                Console.WriteLine(category.Name);
-            }
-            
-            
-        }
+            static void FirstTake()
+                {
+                    var ctx = new NorthwindContext();
 
-        static void FirstTake()
-        {
-            var ctx = new NorthwindContext();
+                    var products = ctx.Product.Include(x => x.Category);
 
-            //var categories = ctx.Categories;
-
-            //foreach (var category in categories)
-            //{
-            //    Console.WriteLine(category);
-            //}
-
-            //var cat = new Category
-            //{
-            //    Id = 101,
-            //    Name = "fdfjslfdjfk",
-            //    Description = "blah blah"
-            //};
-
-            //ctx.Categories.Add(cat);
-            //ctx.SaveChanges();
-
-            //var cat = ctx.Categories.Find(101);
-
-            //cat.Name = "New name";
-            //ctx.SaveChanges();
-
-            //ctx.Categories.Remove(ctx.Categories.Find(101));
-            //ctx.SaveChanges();
-
-            var products = ctx.Products.Include(x => x.Category);
-
-            foreach (var product in products)
-            {
-                Console.WriteLine(product);
+                    foreach (var product in products)
+                    {
+                        Console.WriteLine(product);
+                    }
+                }
             }
         }
     }
-}
+
+
