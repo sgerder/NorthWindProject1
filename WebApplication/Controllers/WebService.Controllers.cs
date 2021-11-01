@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
 using System.Net;
-using Assignment4;
+using EfEx.Domain;
 
 
 namespace WebService
@@ -35,6 +35,7 @@ namespace WebService
             return Ok(category);
         }
 
+        /*
         [HttpPost]
         public IActionResult CreateCategory([FromBody] Category category)
         {
@@ -49,6 +50,7 @@ namespace WebService
             
             return Ok();
         }
+        */
 
         [HttpDelete("{categoryId}")]
         public ActionResult DeleteCategory(int categoryId)

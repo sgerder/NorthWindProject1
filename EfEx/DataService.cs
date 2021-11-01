@@ -1,13 +1,14 @@
-﻿using EfEx.Domain;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Internal;
 
-namespace EfEx
+namespace EfEx.Domain
 {
-    public class DataService
+    public class DataService : IDataService
     {
 
         public Category GetCategory(int idIn)
