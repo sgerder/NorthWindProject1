@@ -221,6 +221,19 @@
         "runtime": {
           "lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.dll": {}
         }
+      },
+      "EfEx/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Npgsql.EntityFrameworkCore.PostgreSQL": "5.0.10"
+        },
+        "compile": {
+          "bin/placeholder/EfEx.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EfEx.dll": {}
+        }
       }
     }
   },
@@ -672,11 +685,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "EfEx/1.0.0": {
+      "type": "project",
+      "path": "../EfEx/EfEx.csproj",
+      "msbuildProject": "../EfEx/EfEx.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "Npgsql.EntityFrameworkCore.PostgreSQL >= 5.0.10"
+      "EfEx >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -686,11 +704,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\RUC\\Second Semester\\Computer Science\\C#\\git\\Asignment4\\NorthWindProject1\\EfEx\\EfEx.csproj",
-      "projectName": "EfEx",
-      "projectPath": "D:\\RUC\\Second Semester\\Computer Science\\C#\\git\\Asignment4\\NorthWindProject1\\EfEx\\EfEx.csproj",
+      "projectUniqueName": "D:\\RUC\\Second Semester\\Computer Science\\C#\\git\\Asignment4\\NorthWindProject1\\WebApplication\\WebApplication.csproj",
+      "projectName": "WebApplication",
+      "projectPath": "D:\\RUC\\Second Semester\\Computer Science\\C#\\git\\Asignment4\\NorthWindProject1\\WebApplication\\WebApplication.csproj",
       "packagesPath": "C:\\Users\\Andrei\\.nuget\\packages\\",
-      "outputPath": "D:\\RUC\\Second Semester\\Computer Science\\C#\\git\\Asignment4\\NorthWindProject1\\EfEx\\obj\\",
+      "outputPath": "D:\\RUC\\Second Semester\\Computer Science\\C#\\git\\Asignment4\\NorthWindProject1\\WebApplication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -710,7 +728,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\RUC\\Second Semester\\Computer Science\\C#\\git\\Asignment4\\NorthWindProject1\\EfEx\\EfEx.csproj": {
+              "projectPath": "D:\\RUC\\Second Semester\\Computer Science\\C#\\git\\Asignment4\\NorthWindProject1\\EfEx\\EfEx.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -722,12 +744,6 @@
     "frameworks": {
       "net5.0": {
         "targetAlias": "net5.0",
-        "dependencies": {
-          "Npgsql.EntityFrameworkCore.PostgreSQL": {
-            "target": "Package",
-            "version": "[5.0.10, )"
-          }
-        },
         "imports": [
           "net461",
           "net462",
@@ -739,6 +755,9 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
