@@ -20,15 +20,14 @@ namespace WebApplication.Controllers
         private readonly IDataService _dataService;
         private readonly LinkGenerator _linkGenerator;
         private readonly IMapper _mapper;
-        
+
         public CategoriesController(IDataService dataService, LinkGenerator linkGenerator, IMapper mapper)
         {
             _dataService = dataService;
             _linkGenerator = linkGenerator;
             _mapper = mapper;
-
         }
-        
+
         [HttpGet]
         public ActionResult<IEnumerable<Category>> GetCategories()
         {

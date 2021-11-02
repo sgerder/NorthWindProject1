@@ -34,7 +34,7 @@ namespace TestProject1
         public void ApiCategories_GetWithValidCategoryId_OkAndCategory()
         {
             var (category, statusCode) = GetObject($"{CategoriesApi}/1");
-
+            Console.WriteLine("Hej");
             Assert.Equal(HttpStatusCode.OK, statusCode);
             Assert.Equal("Beverages", category["name"]);
         }
